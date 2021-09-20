@@ -57,4 +57,5 @@ To conclude this section and in appraising what I have done with the HDDT I have
 
 # 4.	Show you how I run exercises to address my project using the HDDT
 3000 Institution builders - Gephi demonstration and Python Notebook 
-See Example
+
+https://github.com/KelvinBeerJones/QSRA_september_2021/blob/main/qsra_september_2021.ipynb
